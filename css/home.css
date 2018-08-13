@@ -1,0 +1,11 @@
+.schedule {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.schedule > table {
+    width: 100%;
+}
+.schedule > h2 {
+    font-size: 36px;
+}
